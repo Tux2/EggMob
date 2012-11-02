@@ -1,0 +1,5 @@
+name: EggMob
+description: Turn mobs into spawn eggs using splash potions.
+main: edu.self.eggMob.EggMobPlugin
+version: 0.5
+author: StarTux

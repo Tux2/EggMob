@@ -1,0 +1,146 @@
+# The potion to use. Make sure that it is a splash potion and obtainable.
+# Available potion effects:
+# speed slow fast_digging slow_digging increase_damage heal harm jump confusion regeneration damage_resistance fire_resistance water_breathing invisibility blindness night_vision hunger weakness poison
+potioneffect: weakness
+# The minimum level of the potion.
+minimum_level: 0
+# The minimum strength of the splash effect. Must be between 0.0 and 1.0.
+threshold: 0.0
+# Enable or disable mobs. Names are taken from bukkit.org.entity.CreatureTypes.
+mobs:
+    Creeper:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Skeleton:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Spider:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Giant:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Zombie:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Slime:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Ghast:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    PigZombie:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Enderman:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    CaveSpider:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Silverfish:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Blaze:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    LavaSlime:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    EnderDragon:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Pig:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Sheep:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Cow:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Chicken:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Squid:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Wolf:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    MushroomCow:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    SnowMan:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Ocelot:
+        enabled: true
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Villager:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Wither:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Bat:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+    Witch:
+        enabled: false
+        catchpercentageswitch: 90
+        highhealthcatchpercentage: 20
+        lowhealthcatchpercentage: 80
+        
